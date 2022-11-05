@@ -1,0 +1,14 @@
+﻿  io.cpp
+  quinticpolynomial.cpp
+  spline.cpp
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(122,56): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(378,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(395,35): warning C4244: 'argument': conversion from 'const double' to 'const unsigned __int64', possible loss of data
+  tankmodel.cpp
+  Generating Code...
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(54): warning C4715: 'squiggles::SplineGenerator::generate': not all control paths return a value
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(46): warning C4715: 'squiggles::SplineGenerator::generate': not all control paths return a value
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(33): warning C4715: 'squiggles::SplineGenerator::generate': not all control paths return a value
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(62): warning C4715: 'squiggles::SplineGenerator::generate': not all control paths return a value
+C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\SquigglesLibrary\src\spline.cpp(341): warning C4715: 'squiggles::SplineGenerator::gen_raw_path': not all control paths return a value
+  SquigglesLibrary.vcxproj -> C:\Users\echor\Downloads\Squiggles-Application-master\Squiggles-Application-master\x64\Debug\SquigglesLibrary.lib
